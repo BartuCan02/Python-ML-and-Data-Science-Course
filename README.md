@@ -1,6 +1,3 @@
-
-# Python-Data-Science-and-Machine-Learning-Bootcamp
-Repo for Python Data Science and Machine Learning Bootcamp
 =======
 # Python-ML-and-Data-Science-Lecture
 
@@ -31,8 +28,5 @@ An overview of the covered topic of the lab is as follows:
 7. Neural Networks: tensorflow.keras  
 8. Unsupervised Learning  
 9. Clustering  
-10. Final Projects: Please take a look at the sentiment analysis project for this final project  
-    [https://gitlab.com/a-o-can/sentiments-analysis](https://gitlab.com/a-o-can/sentiments-analysis)
 
 
->>>>>>> 27c71f5f18a6c574607949a215c6737176a0c009
