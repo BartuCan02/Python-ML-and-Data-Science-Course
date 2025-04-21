@@ -1,4 +1,3 @@
-=======
 # Python-ML-and-Data-Science-Lecture
 
 This laboratory is taken at the Technical University of Munich, in 5th semester. The lab consists of various coding problems, which are to be solved by data analysis libraries as well as machine learning applications.  
